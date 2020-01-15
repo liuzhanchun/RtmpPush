@@ -1,0 +1,10 @@
+﻿
+#ifndef SRS_AUTO_HEADER_HPP
+#define SRS_AUTO_HEADER_HPP
+
+#define SRS_EXPORT_LIBRTMP
+
+#define SRS_AUTO_TRACE
+
+#endif /* SRS_AUTO_HEADER_HPP */
+
